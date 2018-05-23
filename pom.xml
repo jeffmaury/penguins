@@ -4,7 +4,7 @@
   <artifactId>penguins-parent</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <modules>
-    <module>penguins>
+    <module>penguins</module>
     <module>fuse-on-openshift<module>
   </modules>
 </project>
